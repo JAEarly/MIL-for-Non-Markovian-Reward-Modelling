@@ -4,6 +4,8 @@ This repo contains are code for the paper titled "Non-Markovian Reward Modelling
 Labels via Interpretable Multiple Instance Learning". [Bonfire](https://github.com/JAEarly/Bonfire) is used for the
 backend MIL functionality.
 
+![main_img](./cover.png)
+
 Below we break down each of the directories in this repo:
 
 ### Data
@@ -47,6 +49,6 @@ found in `requirements.txt`.
 ### Src
 
 Contains our project-specific code. This includes the dataset and oracle implementations, high-level model implementations
-(low-level model code is in Bonfire), oracle reward functions (all of which inherit from an abstract base class),
+(low-level model code is implemented in Bonfire), oracle reward functions (all of which inherit from an abstract base class),
 the environment wrapper for RL training, visual descriptions of the per-task environment layouts for rendering, and
 interpretability studies (e.g., probes).
