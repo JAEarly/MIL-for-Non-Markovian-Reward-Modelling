@@ -47,6 +47,6 @@ found in `requirements.txt`.
 ### Src
 
 Contains our project-specific code. This includes the dataset and oracle implementations, high-level model implementations
-(low-level model code is in PyTorch MIL), oracle reward functions (all of which inherit from an abstract base class),
+(low-level model code is in Bonfire), oracle reward functions (all of which inherit from an abstract base class),
 the environment wrapper for RL training, visual descriptions of the per-task environment layouts for rendering, and
 interpretability studies (e.g., probes).
