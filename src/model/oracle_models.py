@@ -2,7 +2,7 @@ from abc import ABC, abstractmethod
 
 import torch
 
-from pytorch_mil.model import models
+from bonfire.model import models
 
 
 def returns_and_rewards_from_instance_predictions(bag_prediction, instance_predictions):

@@ -10,7 +10,7 @@ from torch import nn
 from enum import Enum
 
 
-from pytorch_mil.train.metrics import MinimiseRegressionMetric
+from bonfire.train.metrics import MinimiseRegressionMetric
 
 
 class HeatmapMethod(Enum):

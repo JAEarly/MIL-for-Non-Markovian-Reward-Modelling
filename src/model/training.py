@@ -3,7 +3,7 @@ from abc import ABC
 from overrides import overrides
 
 import dataset
-from pytorch_mil.train.train_base import MinimiseRegressionTrainer, NetTrainerMixin
+from bonfire.train.train_base import MinimiseRegressionTrainer, NetTrainerMixin
 
 
 class RLMILTrainer(MinimiseRegressionTrainer, ABC):

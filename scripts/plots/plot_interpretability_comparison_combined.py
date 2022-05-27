@@ -3,8 +3,8 @@ import argparse
 import scripts
 from interpretability.rl import charger_treasure_interpretability, key_treasure_interpretability, \
     timer_treasure_interpretability, moving_treasure_interpretability
-from pytorch_mil.train import get_default_save_path
-from pytorch_mil.util import get_device
+from bonfire.train import get_default_save_path
+from bonfire.util import get_device
 from matplotlib import pyplot as plt
 from model.rl_models import RLEmbeddingSpaceLSTM, RLInstanceSpaceLSTM, RLCSCInstanceSpaceLSTM
 from scripts.plots.plot_interpretability import get_best_repeat_num

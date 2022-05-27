@@ -1,3 +1,3 @@
-[submodule "pytorch_mil"]
-	path = pytorch_mil
-	url = git@github.com:JAEarly/pytorch_mil.git
+[submodule "bonfire"]
+	path = bonfire
+	url = git@github.com:JAEarly/Bonfire.git

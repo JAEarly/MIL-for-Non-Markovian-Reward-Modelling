@@ -1,4 +1,4 @@
-import sys; sys.path.append("src"); sys.path.append("pytorch_mil")
+import sys; sys.path.append("src"); sys.path.append("bonfire")
 
 from lib import tufte
 import pandas as pd

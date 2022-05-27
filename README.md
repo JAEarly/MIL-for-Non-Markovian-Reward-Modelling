@@ -1,7 +1,8 @@
 # Non-Markovian Reward Modelling from Trajectory Labels via Interpretable Multiple Instance Learning
 
 This repo contains are code for the paper titled "Non-Markovian Reward Modelling from Trajectory
-Labels via Interpretable Multiple Instance Learning".
+Labels via Interpretable Multiple Instance Learning". [Bonfire](https://github.com/JAEarly/Bonfire) is used for the
+backend MIL functionality.
 
 Below we break down each of the directories in this repo:
 
@@ -28,12 +29,6 @@ labels), are named `<dataset_name>_<model_name>_<noise_level>_<repeat>.pkl`
 
 Contains all the outputs that are not model files. Figures can be found in the `fig` directory; the majority are `.png`
 files, but some are saved as `.svg`.
-
-### PyTorch MIL
-
-Contains a backend Python library for MIL. To keep our experiment code separate from our existing pieces of work on MIL,
-the majority of the core MIL functionality is implemented in this package. The rest of our (project specific) code can
-be found in `src`.
 
 ### Results
 

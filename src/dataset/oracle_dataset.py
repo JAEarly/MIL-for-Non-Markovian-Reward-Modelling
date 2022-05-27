@@ -5,7 +5,7 @@ from abc import ABC, abstractmethod
 import torch
 from sklearn.model_selection import train_test_split
 
-from pytorch_mil.data.mil_dataset import MilDataset
+from bonfire.data.mil_dataset import MilDataset
 
 
 class OracleDataset(MilDataset, ABC):

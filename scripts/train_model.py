@@ -1,8 +1,8 @@
 import argparse
 
 import scripts
-from pytorch_mil.train import DEFAULT_SEEDS
-from pytorch_mil.util import get_device
+from bonfire.train import DEFAULT_SEEDS
+from bonfire.util import get_device
 
 device = get_device()
 

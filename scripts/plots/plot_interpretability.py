@@ -3,8 +3,8 @@ import argparse
 import scripts
 from interpretability.rl import charger_treasure_interpretability, key_treasure_interpretability, \
     timer_treasure_interpretability, moving_treasure_interpretability
-from pytorch_mil.train import get_default_save_path
-from pytorch_mil.util import get_device
+from bonfire.train import get_default_save_path
+from bonfire.util import get_device
 import matplotlib as mpl
 
 mpl.rcParams.update({"svg.fonttype": "none"})

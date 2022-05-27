@@ -8,8 +8,8 @@ from tqdm import tqdm
 import scripts
 from interpretability.oracle_interpretability import OracleMILInterpretabilityStudy
 from model import rl_models
-from pytorch_mil.train import get_default_save_path, DEFAULT_SEEDS
-from pytorch_mil.util import get_device
+from bonfire.train import get_default_save_path, DEFAULT_SEEDS
+from bonfire.util import get_device
 from train_model_noisy import get_noisy_model_path
 
 device = get_device()
