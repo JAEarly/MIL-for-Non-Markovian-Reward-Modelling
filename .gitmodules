@@ -1,0 +1,3 @@
+[submodule "pytorch_mil"]
+	path = pytorch_mil
+	url = git@github.com:JAEarly/pytorch_mil.git
