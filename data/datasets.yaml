@@ -1,0 +1,17 @@
+oracle:
+  push_switch:
+    - data/oracle/push_switch/push_switch.csv
+  toggle_switch:
+    - data/oracle/toggle_switch/toggle_switch.csv
+  dial:
+    - data/oracle/dial/dial.csv
+  key_treasure:
+    - data/oracle/keytreasure/keytreasure.csv
+  moving_treasure:
+    - data/oracle/movingtreasure/movingtreasure.csv
+  timer_treasure:
+    - data/oracle/timertreasure/timertreasure.csv
+  charger_treasure:
+    - data/oracle/chargertreasure/chargertreasure.csv
+  lunar_lander:
+    - data/oracle/lunar_lander/lunarlander_9762x500_class-8-4-balance_bounds-term_div100.csv

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="111.68pt"
+   version="1.1"
+   viewBox="0 0 111.68 111.68"
+   width="111.68pt"
+   id="svg61"
+   sodipodi:docname="charger.svg"
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     id="namedview63"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="83.233543"
+     inkscape:cy="104.47847"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg61" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>2022-05-11T16:27:37.841285</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Matplotlib v3.3.4, https://matplotlib.org/</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <style
+       type="text/css"
+       id="style4">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+    <defs
+       id="defs47">
+      <path
+         d="m 0,4.1833 c 1.109424,0 2.173559,-0.440779 2.95804,-1.22526 C 3.742521,2.173559 4.1833,1.109424 4.1833,0 4.1833,-1.109424 3.742521,-2.173559 2.95804,-2.95804 2.173559,-3.742521 1.109424,-4.1833 0,-4.1833 c -1.109424,0 -2.173559,0.440779 -2.95804,1.22526 C -3.742521,-2.173559 -4.1833,-1.109424 -4.1833,0 c 0,1.109424 0.440779,2.173559 1.22526,2.95804 C -2.173559,3.742521 -1.109424,4.1833 0,4.1833 Z"
+         id="m1070d41b85"
+         style="stroke:#ffffff" />
+    </defs>
+  </defs>
+  <path
+     d="M 0.40000001,111.28 H 111.28 V 0.40000001 H 0.40000001 Z"
+     style="fill:#ffffff"
+     id="path11" />
+  <path
+     clip-path="url(#p589615ae33)"
+     d="M 18.36,128.16 H 129.24 V 17.28 H 18.36 Z"
+     style="fill:#556b2f"
+     id="path14"
+     transform="translate(-17.96,-16.88)" />
+  <path
+     clip-path="url(#p589615ae33)"
+     d="M 29.448,83.808 H 40.536 V 61.632 H 29.448 Z"
+     style="fill:#800080;stroke:#000000;stroke-linejoin:miter"
+     id="path17"
+     transform="translate(-17.96,-16.88)" />
+  <path
+     clip-path="url(#p589615ae33)"
+     d="m 107.064,83.808 h 11.088 V 61.632 h -11.088 z"
+     style="fill:#800080;stroke:#000000;stroke-linejoin:miter"
+     id="path20"
+     transform="translate(-17.96,-16.88)" />
+  <path
+     clip-path="url(#p589615ae33)"
+     d="M 18.36,128.16 H 129.24 V 94.896 H 18.36 Z"
+     style="fill:#d3d3d3;stroke:#000000;stroke-linejoin:miter"
+     id="path23"
+     transform="translate(-17.96,-16.88)" />
+  <path
+     clip-path="url(#p589615ae33)"
+     d="M 18.36,128.16 H 129.24 V 94.896 H 18.36 Z"
+     style="fill:#808080;stroke-width:1.7796"
+     id="path26"
+     transform="matrix(0.32057089,0,0,0.98498791,-5.485681,-14.95605)" />
+  <path
+     clip-path="url(#p589615ae33)"
+     d="M 62.712,50.544 H 84.888 V 28.368 H 62.712 Z"
+     style="fill:#6b8e23;stroke:#000000;stroke-linejoin:miter"
+     id="path29"
+     transform="translate(-17.96,-16.88)" />
+  <path
+     d="M 111.28,111.28 V 0.40000001"
+     style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
+     id="path37" />
+  <path
+     d="M 0.40000001,111.28 H 111.28"
+     style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
+     id="path40" />
+  <path
+     d="M 0.40000001,111.28 V 0.40000001"
+     style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
+     id="path34" />
+  <path
+     d="M 0.40000001,0.40000001 H 111.28"
+     style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
+     id="path43" />
+  <use
+     style="stroke:#ffffff"
+     x="93.467133"
+     xlink:href="#m1070d41b85"
+     y="107.74555"
+     id="use49"
+     width="100%"
+     height="100%"
+     transform="translate(-17.96,-16.88)" />
+  <defs
+     id="defs59">
+    <clipPath
+       id="p589615ae33">
+      <rect
+         height="110.88"
+         width="110.88"
+         x="18.360001"
+         y="17.280001"
+         id="rect56" />
+    </clipPath>
+  </defs>
+</svg>
