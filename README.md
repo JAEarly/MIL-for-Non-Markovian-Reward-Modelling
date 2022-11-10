@@ -1,6 +1,6 @@
 # Non-Markovian Reward Modelling from Trajectory Labels via Interpretable Multiple Instance Learning
 
-This repo contains are code for the paper [Non-Markovian Reward Modelling from Trajectory
+This repo contains the code for the paper [Non-Markovian Reward Modelling from Trajectory
 Labels via Interpretable Multiple Instance Learning](https://arxiv.org/abs/2205.15367). We use [Bonfire](https://github.com/JAEarly/Bonfire) for the
 backend MIL functionality.
 
